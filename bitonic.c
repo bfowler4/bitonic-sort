@@ -18,7 +18,7 @@
  *        this
  *     2. Debug flag can be used to print updated list after each stage of the 
  *        sorting algorithm. Includes information on which butterfly is being
- *        executed and which stage has been completed
+ *        executed and which stage has been completed.
  */
 #include <stdio.h>
 #include <stdlib.h>
